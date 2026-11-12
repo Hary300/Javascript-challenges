@@ -9,6 +9,12 @@ This repository contains a set of beginner-friendly JavaScript exercises focused
 - [03 - Filter Even Numbers](./03-filter-even-numbers/readme.md)
 - [04 - Reverse String](./04-reverse-string/readme.md)
 - [05 - Sum Array Numbers](./05-sum-array-numbers/readme.md)
+- [06 - Find Index](./06-find-index/readme.md)
+- [07 - Count Words](./07-count-words/readme.md)
+- [08 - Remove Duplicates](./08-remove-duplicates/readme.md)
+- [09 - Capitalize Words](./09-capitalize-words/readme.md)
+- [10 - Find Second Largest](./10-find-second-largest/readme.md)
+- [11 - Find Longest Word](./11-find-longest-word/readme.md)
 
 ## Getting Started
 
