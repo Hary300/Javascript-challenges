@@ -15,6 +15,15 @@ This repository contains a set of beginner-friendly JavaScript exercises focused
 - [09 - Capitalize Words](./09-capitalize-words/readme.md)
 - [10 - Find Second Largest](./10-find-second-largest/readme.md)
 - [11 - Find Longest Word](./11-find-longest-word/readme.md)
+- [12 - Count Occurrences](./12-count-occurrences/readme.md)
+- [13 - Separate Positive and Negative](./13-separate-positive-negative/readme.md)
+- [14 - Find Most Frequent Number](./14-find-most-frequent-number/readme.md)
+- [15 - Merge Arrays](./15-merge-arrays/readme.md)
+- [16 - Find Common Elements](./16-find-common-elements/readme.md)
+- [17 - Remove Specific Element](./17-remove-specific-element/readme.md)
+- [18 - Check Sorted Array](./18-check-sorted-array/readme.md)
+- [19 - Count Number Types](./19-count-number-types/readme.md)
+- [20 - Find Range](./20-find-range/readme.md)
 
 ## Getting Started
 
